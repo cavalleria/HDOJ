@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HDOJ_2002", "HDOJ_2002\HDOJ_2002.vcxproj", "{C11059D0-112C-4B43-9494-A20131231C9C}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "HDOJ_2001", "..\HDOJ_2001\HDOJ_2001\HDOJ_2001.vcxproj", "{F57E12CD-645E-4BE3-8D94-4B79DB5B92C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C11059D0-112C-4B43-9494-A20131231C9C}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C11059D0-112C-4B43-9494-A20131231C9C}.Debug|Win32.Build.0 = Debug|Win32
+		{C11059D0-112C-4B43-9494-A20131231C9C}.Release|Win32.ActiveCfg = Release|Win32
+		{C11059D0-112C-4B43-9494-A20131231C9C}.Release|Win32.Build.0 = Release|Win32
+		{F57E12CD-645E-4BE3-8D94-4B79DB5B92C0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F57E12CD-645E-4BE3-8D94-4B79DB5B92C0}.Debug|Win32.Build.0 = Debug|Win32
+		{F57E12CD-645E-4BE3-8D94-4B79DB5B92C0}.Release|Win32.ActiveCfg = Release|Win32
+		{F57E12CD-645E-4BE3-8D94-4B79DB5B92C0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
